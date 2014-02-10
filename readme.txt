@@ -1,0 +1,1 @@
+http://fasiondog.github.io/fasiondog/00_blog_img/
