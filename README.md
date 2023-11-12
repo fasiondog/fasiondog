@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fasiondog
-- 👀 I’m interested in Quant trading, ROS, AI, Hiigh-performance computing, Software engeering method, Data analysis and algorithm
-- 🌱 I’m currently learning Rust, LLM, and other AI tools
+- 👀 I’m interested in C++/Pthon, Quant trading, ROS, AI deployment, Hiigh-performance computing, Software engeering method, Data analysis and algorithm
+- 🌱 I’m currently learning Rust, Golang, LLM, and other ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: fasiondog@sina.com
 
